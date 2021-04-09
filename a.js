@@ -1,1 +1,1 @@
-console.log('a.js file in branch2');
+console.log('a.js file in master');
